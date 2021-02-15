@@ -1,0 +1,11 @@
+main: cz.lukynka.yq_multiplayersleep.Main
+name: yq_multiplayersleeep
+version: '1.0'
+description: hmm... popisek
+load: POSTWORLD
+author: LukynkaCZE
+website: lukynka.cz
+prefix: yq_MultiplayerSleep
+commands:
+  multiplayersleep:
+   description: a
